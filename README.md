@@ -20,4 +20,4 @@
 
 ### ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ
 
-- [![telegram](https://img.shields.io/badge/paradox-zenu-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/zenitsu_x_thunder_breathing)
+- [![telegram](https://img.shields.io/badge/Zenitsu-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/zenitsu_x_thunder_breathing)
