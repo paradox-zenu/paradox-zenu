@@ -22,3 +22,8 @@
 
 - [![telegram](https://img.shields.io/badge/Zenitsu-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/zenitsu_x_thunder_breathing)
 - [![Instagram](https://img.shields.io/badge/Zenix-Instagram-red?style=for-the-badge&logo=Instagram)](https://www.instagram.com/zenix._.0?igsh=MTBjMTBobXhxanQwYg==) 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Paradox-zenu/count.svg" />
+</p>
